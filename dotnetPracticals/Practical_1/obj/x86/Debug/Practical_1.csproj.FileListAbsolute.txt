@@ -1,0 +1,12 @@
+F:\dotnet52\dotnetPracticals\Practical_1\bin\Debug\Practical_1.exe
+F:\dotnet52\dotnetPracticals\Practical_1\bin\Debug\Practical_1.pdb
+F:\dotnet52\dotnetPracticals\Practical_1\obj\x86\Debug\Practical_1.csprojResolveAssemblyReference.cache
+F:\dotnet52\dotnetPracticals\Practical_1\obj\x86\Debug\Practical_1.exe
+F:\dotnet52\dotnetPracticals\Practical_1\obj\x86\Debug\Practical_1.pdb
+D:\17ce052\DotNetPracticals\dotnetPracticals\Practical_1\obj\x86\Debug\Practical_1.exe
+D:\17ce052\DotNetPracticals\dotnetPracticals\Practical_1\obj\x86\Debug\Practical_1.pdb
+E:\DotNet\dotnetPracticals\Practical_1\bin\Debug\Practical_1.exe
+E:\DotNet\dotnetPracticals\Practical_1\bin\Debug\Practical_1.pdb
+E:\DotNet\dotnetPracticals\Practical_1\obj\x86\Debug\Practical_1.csprojAssemblyReference.cache
+E:\DotNet\dotnetPracticals\Practical_1\obj\x86\Debug\Practical_1.exe
+E:\DotNet\dotnetPracticals\Practical_1\obj\x86\Debug\Practical_1.pdb

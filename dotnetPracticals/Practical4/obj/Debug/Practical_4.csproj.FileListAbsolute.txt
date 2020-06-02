@@ -1,0 +1,6 @@
+E:\DotNet\dotnetPracticals\Practical4\bin\Debug\Practical4.exe.config
+E:\DotNet\dotnetPracticals\Practical4\bin\Debug\Practical4.exe
+E:\DotNet\dotnetPracticals\Practical4\bin\Debug\Practical4.pdb
+E:\DotNet\dotnetPracticals\Practical4\obj\Debug\Practical_4.csprojAssemblyReference.cache
+E:\DotNet\dotnetPracticals\Practical4\obj\Debug\Practical4.exe
+E:\DotNet\dotnetPracticals\Practical4\obj\Debug\Practical4.pdb
